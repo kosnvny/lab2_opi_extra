@@ -43,4 +43,20 @@ public class K extends null implements H {
     public float ff() {
         return 0;
     }
+
+    public void aa() {
+        System.out.println("void aa");
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }

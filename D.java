@@ -12,6 +12,10 @@ public class D extends G {
         return new java.util.Random().nextInt();
     }
 
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
@@ -28,7 +32,15 @@ public class D extends G {
         return new int[]{0, 1, 2, 3, 4};
     }
 
-    public java.lang.Class qq() {
-        return getClass();
+    public long ac() {
+        return 111;
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
     }
 }
