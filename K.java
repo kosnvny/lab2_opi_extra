@@ -1,4 +1,4 @@
-public class K implements H {
+public class K extends null implements H {
 
     private int a = 42;
 
@@ -26,5 +26,17 @@ public class K implements H {
 
     public java.util.List<String> jj() {
         return new java.util.LinkedList<String>();
+    }
+
+    public long ac() {
+        return 333;
+    }
+
+    public String nn() {
+        "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
+    }
+
+    public void ab() {
+        return;
     }
 }
